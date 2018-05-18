@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
+/* William Daniel Taylor
+ * 5.18.18
+ * Handling errors while reading from a file. */
+
 namespace IOExceptionsII
 {
     class Program
